@@ -1,0 +1,5 @@
+export const CHANGE_POST_DATE = 'home/CHANGE_POST_DATE';
+export const CHANGE_NOMORE_AND_PAGE = 'home/CHANGE_NOMORE_AND_PAGE';
+export const CHANGE_NO_MORE = 'home/CHANGE_NO_MORE';
+export const GETMORE_POST_DATE = 'home/GETMORE_POST_DATE';
+export const CHANGE_LISTNUMS = 'home/CHANGE_LISTNUMS';

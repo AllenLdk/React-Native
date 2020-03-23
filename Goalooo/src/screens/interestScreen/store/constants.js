@@ -1,0 +1,4 @@
+export const CHANGE_SELECTED_SEX = 'home/CHANGE_SELECTED_SEX';
+export const CHANGE_SELECTED_CLUB = 'home/CHANGE_SELECTED_CLUB';
+export const CHANGE_SEX_LIST = 'home/CHANGE_SEX_LIST';
+export const CHANGE_CLUB_LIST = 'home/CHANGE_CLUB_LIST';
